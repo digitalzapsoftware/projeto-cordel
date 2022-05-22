@@ -1,2 +1,2 @@
 # projeto-cordel
-Projeto Cordel Milton Duarte.
+Projeto Cordel Milton Duarte!
